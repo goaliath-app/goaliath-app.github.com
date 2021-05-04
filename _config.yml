@@ -5,3 +5,9 @@ theme: "just-the-docs"
 title: Goaliath
 # description: to do
 search_enabled: false
+# Aux links for the upper right navigation
+aux_links:
+  "Goaliath on GitHub":
+    - "https://github.com/goaliath-app/goaliath"
+  "Download":
+    - "https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40oliverlsanz/Goaliath-1ac4cc84001d4f32980c40e9869c79d9-signed.apk"
