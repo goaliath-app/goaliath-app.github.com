@@ -7,6 +7,9 @@ permalink: /guide/overview
 title: Overwiew
 nav_order: 1
 parent: Quick Guide
+
+# jekyll-polyglot
+lang: en
 ---
 # Overview
 

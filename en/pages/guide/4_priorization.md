@@ -6,6 +6,9 @@ permalink: /guide/prioritization
 title: Prioritization
 nav_order: 4
 parent: Quick Guide
+
+# jekyll-polyglot
+lang: en
 ---
 # Prioritization
 This section of the quick guide talks about prioritization, or what to do when you have too many goals and activities to tackle at once.

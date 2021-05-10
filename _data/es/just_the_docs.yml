@@ -1,0 +1,9 @@
+aux_links:
+  - 
+    label: "Goaliath en GitHub"
+    href: "https://github.com/goaliath-app/goaliath"
+  -
+    label: "Descarga la app"
+    href: "https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40oliverlsanz/Goaliath-1ac4cc84001d4f32980c40e9869c79d9-signed.apk"
+
+table_of_contents: "Tabla de contenidos"

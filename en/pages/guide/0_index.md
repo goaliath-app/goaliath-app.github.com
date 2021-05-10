@@ -7,6 +7,9 @@ permalink: /guide
 title: Quick Guide
 nav_order: 2
 has_children: true
+
+# jekyll-polyglot
+lang: en
 ---
 # Quick Guide
 This quick guide explains the intended usage of Goaliath. 

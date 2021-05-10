@@ -6,6 +6,9 @@ permalink: /
 # just-the-docs
 title: Home
 nav_order: 1
+
+# jekyll-polyglot
+lang: en
 ---
 # Welcome to Goaliath
 Goaliath is a time and goal management app that seeks to make you feel proud of your daily actions.

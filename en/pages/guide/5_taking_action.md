@@ -6,6 +6,9 @@ permalink: /guide/action
 title: Taking Action
 nav_order: 5
 parent: Quick Guide
+
+# jekyll-polyglot
+lang: en
 ---
 # Taking Action
 ## The day to day

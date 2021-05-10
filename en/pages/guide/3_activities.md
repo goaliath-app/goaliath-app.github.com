@@ -6,6 +6,9 @@ permalink: /guide/activities
 title: Program activities
 nav_order: 3
 parent: Quick Guide
+
+# jekyll-polyglot
+lang: en
 ---
 # Program Activities
 When your goals are created it is time to plan the actions you'll take towards each of them. An activity is a recurring action that you take every day or on certain days of the week.

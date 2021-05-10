@@ -5,9 +5,15 @@ theme: "just-the-docs"
 title: Goaliath
 # description: to do
 search_enabled: false
-# Aux links for the upper right navigation
-aux_links:
-  "Goaliath on GitHub":
-    - "https://github.com/goaliath-app/goaliath"
-  "Download":
-    - "https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40oliverlsanz/Goaliath-1ac4cc84001d4f32980c40e9869c79d9-signed.apk"
+# Aux links for the upper right navigation -> moved to _data file
+aux_links_new_tab: true
+
+plugins:
+  - jekyll-polyglot
+
+# jekyll-polyglot
+languages: ["en", "es"]
+default_lang: "en"
+parallel_localization: false
+sass:  # workaround for https://github.com/untra/polyglot/issues/125
+  sourcemap: never

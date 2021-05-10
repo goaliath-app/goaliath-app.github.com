@@ -6,6 +6,9 @@ permalink: /guide/goals
 title: State your goals
 nav_order: 2
 parent: Quick Guide
+
+# jekyll-polyglot
+lang: en
 ---
 # State Your Goals
 The first time you launch Goaliath it is a blank slate. The first thing to do is to create your goals. In the app, go to the "Goals" section and press the + button to create your first goal. 
