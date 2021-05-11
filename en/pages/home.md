@@ -15,4 +15,4 @@ Goaliath is a time and goal management app that seeks to make you feel proud of 
 
 Goaliath is free to use and open source. It is a work in progress, but you can download an alpha build from this page menu.
 
-For more info about the app, please refer to our [quick guide](/guide).
+Please refer to our [quick guide](/guide) for more info about the method behind the app.
