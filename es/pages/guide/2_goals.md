@@ -10,27 +10,30 @@ parent: Guía Rápida
 # jekyll-polyglot
 lang: es
 ---
-# Fija tus metas
-La primera vez que abres Goaliath, es una pizzarra en blanco. La primera cosa que hacer es crear tus metas. En la app, ve a la sección "Metas" y pulsa el botón + para crear tu primera meta.
+# Define Tus Metas
+Cuando la abres por primera vez, Goaliath es como un folio en blanco. Para comenzar a usarla lo primero que debes hacer es crear tus metas. 
+
+> En la app, ve a la sección "Metas" y pulsa el botón + para crear tu primera meta.
 
 ## Tu primera meta
-¿Qué debería ser una meta? Hay varias opciones, pero se reduce en:
-- Algo que te hace sentir bien dedicándole tiempo.
-- Algo que te hace sentir mal dejándolo para mañana.
+¿Qué debería ser una meta? Hay varias opciones, pero pueden resumirse en:
+- Algo que te hace sentir bien cuando le dedicas el tiempo suficiente.
+- Algo que te hace sentir mal cuando lo dejas para otro día.
 
 En Goaliath, una meta se indica con un nombre corto descriptivo. Algunos ejemplos pueden ser:
-- Ejercicio
-- Aprender Japonés #Quizás no sea un buen ejemplo ya que es algo muy general
-- Mi novela
+- "Fitness"
+- "Aprender Japonés"
+- "Mi Novela"
 
-Después de escribir el nombre de tu meta, puedes pensar en por qué estás creando esta meta, qué te motiva para dedicarle tiempo. Luego puedes ponerlo en el campo correspondiente de la pantalla de creación de la meta.<br>
-Puede parecer muy obvio para escribirlo, pero en los días difíciles viene bien leerlo. Como dijimos en la sección anterior: *decide menos, recuerda más*.
+Después de escribir el nombre de tu meta intenta pensar en por qué estás creando esta meta. ¿Qué te motiva a dedicarle tiempo? Puedes anotarlo en el campo correspondiente de la pantalla de creación de la meta.
 
-## Créalas todas
-Después de crear tu primera meta, sigue con ello. Crea una meta para cada proyecto y valor importante en el que quieras trabajar. Sigue hasta que te quedes sin ideas.
+Puede parecer algo demasiado obvio como para escribirlo, pero en los días difíciles viene bien leerlo. Como dijimos en la sección anterior: *decide menos, recuerda más*.
 
-No está mal tener muchas. Siempre hay tiempo para priorizar o borrar alguna meta que sientas que no es importante realmente para ti.
+## Introduce todas tus metas
+Después de crear tu primera meta, sigue con la siguiente. Crea una meta para cada proyecto y valor importante en el que quieras trabajar. Sigue hasta que te quedes sin ideas.
+
+No está mal tener muchas metas. Más adelante priorizaremos para trabajar solo en las más importantes. Además, siempre hay tiempo para borrar las metas no sean suficientemente significativas para ti.
 
 [Introducción](/guide/overview){: .btn .float-left .text-left }
-[Siguiente:<br/>Programa actividades](/guide/activities){: .btn .float-right .text-right }
+[Siguiente:<br/>Programación de actividades](/guide/activities){: .btn .float-right .text-right }
 <br/><br/>
