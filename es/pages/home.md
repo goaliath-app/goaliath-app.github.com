@@ -16,4 +16,4 @@ Goaliath es una aplicación de gestión de tiempo cuyo objetivo es hacerte senti
 
 Goaliath es gratuita y de código abierto. Aún estamos trabajando en ella, pero puedes bajarte la versión alpha desde el menú de esta página.
 
-Para más información sobre la app y el método que hay tras ella puedes consultar nuestra guía rápida.
+Para más información sobre la app y el método que hay tras ella puedes consultar nuestra [guía rápida](/guide).
