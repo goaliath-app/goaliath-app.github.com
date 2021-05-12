@@ -84,7 +84,7 @@ Pensar "No tengo mucho tiempo, así que sólo podré entrenar 1 día a la semana
 </summary>
 Para algunas metas quizás necesites una lista de tareas para crear un plan de acción y seguir tu progreso. Goaliath no es compatible con las listas de tareas tradicionales, ya que es solo una herramienta para ayudarte a esforzarte en lo que importa.
 
-Creemos que añadir opciones de gestión de proyectos dañaría nuestro propósito principal. Necesitaras otra herramienta a parte de Goaliath si necesitas listas de tareas (para los proyectos sencillos, nosotros somos fans del lapiz y papel).
+Creemos que añadir opciones de gestión de proyectos dañaría nuestro propósito principal. Necesitaras otra herramienta a parte de Goaliath si necesitas listas de tareas (para los proyectos sencillos, nosotros somos fans del lápiz y papel).
 
 Toma esto como un breve ejemplo:
 - En Goaliath, puedes tener la actividad *Escribir mi libro* durante 4 horas cada día. Hacer esta actividad te asegura que estás poniendo el esfuerzo que llevará al progreso. Las cosas concretas que escribas no son importantes para Goaliath, y no necesitarás editar la actividad cuando hagas progresos en tu libro.

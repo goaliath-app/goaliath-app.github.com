@@ -25,7 +25,7 @@ Despierta a tu mente planificadora y piensa en cuánto tiempo y esfuerzo necesit
 
 Si sientes que es demasiado piensa en qué metas te emocionan menos y usa su interruptor para pausarlas. Esto evitará que aparezcan en tu planificación diaria.
 
-Con esto no estás borrnado la meta de tu vida. Es importante para ti, pero ahora no es el momento. Ya sabes qué tienes que hacer para trabajar en ella y puedes activarla cuando sientas que es adecuado.
+Con esto no estás borrando la meta de tu vida. Es importante para ti, pero ahora no es el momento. Ya sabes qué tienes que hacer para trabajar en ella y puedes activarla cuando sientas que es adecuado.
 
 ¿Por qué priorizar? Creemos que es mejor trabajar en el 30% de tus metas al 100% de capacidad que trabajar en el 100% de tus metas al 30% de capacidad.
   - En el primer caso completarás tus tareas y harás avances. Te sentirás mejor con tu esfuerzo y constancia. Las metas pausadas no te molestarán ya que has decidido posponerlas intencionadamente.

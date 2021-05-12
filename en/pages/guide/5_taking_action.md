@@ -21,7 +21,7 @@ It is OK if you can't do every activity every day. It is a normal thing to happe
 I only recommend reaching for the weekly activities if you really feel like to or if you have already completed your daily ones, and want to work a little more. Look at them just as "bonus tracks" for the day.
 
 ## What next?
-Retrospectives
+### Retrospectives
 After some time you'll want to make adjustments to your goals and activities:
   - Lower the time requirement of an activity that feels like too much to finish consistently.
   - Rise it for an activity you find yourself doing more time than you programmed, or that you feel is not enough.
